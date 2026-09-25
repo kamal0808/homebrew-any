@@ -6,7 +6,7 @@
 set -euo pipefail
 
 REPO="kamal0808/homebrew-any"
-VERSION="v0.4.0"
+VERSION="v0.7.0"
 INSTALL_DIR="$HOME/.local/bin"
 
 os="$(uname -s)"
